@@ -28,9 +28,9 @@ To play or test any of the games in this repository, follow these steps:
 4. Open .exe file and enjoy.
    
 ## 🛠️ Development
-Languages Used: C#
+- Languages Used: C#
 
-Libraries/Frameworks: Unity
+- Libraries/Frameworks: Unity
 
 NB: Each game may vary in its tech stack, so please refer to individual game README files for more details on dependencies and tools used.
 
