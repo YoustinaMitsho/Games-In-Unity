@@ -19,9 +19,9 @@ To play or test any of the games in this repository, follow these steps:
    ```
 
 2. Navigate to the desired game folder:
-  ```bash
-  cd Game-Name
-  ```
+     ```bash
+     cd Game-Name
+     ```
 Follow the specific instructions in the game's folder to set up and run the game.
 
 ## 🛠️ Development
