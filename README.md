@@ -22,6 +22,10 @@ To play or test any of the games in this repository, follow these steps:
      ```bash
      cd Game-Name
      ```
+
+3. Extract .rar file.
+4. Open .exe file and enjoy.
+   
 Follow the specific instructions in the game's folder to set up and run the game.
 
 ## 🛠️ Development
