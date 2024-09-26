@@ -34,6 +34,10 @@ To play or test any of the games in this repository, follow these steps:
 
 NB: Each game may vary in its tech stack, so please refer to individual game README files for more details on dependencies and tools used.
 
+## 📄 License
+
+This game is licensed under the MIT License. See the [LICENSE]() file for details.
+
 ## 🌟 Acknowledgements
 Special thanks to anyone who contributed or helped with testing.
 Any tutorials, libraries, or assets that played a key role in development.
