@@ -4,7 +4,7 @@ Welcome to my repository of games! This collection showcases all the games I hav
 
 ## 📁 Repository Structure
 
-- **[💀 How to Die!]()**
+- **[💀 How to Die!](https://github.com/YoustinaMitsho/Games-In-Unity/tree/main/How%20To%20Die!)**
 - **[🐉 Dragon Island]()**
 
 Feel free to navigate through the folders to explore each game.
@@ -36,7 +36,7 @@ NB: Each game may vary in its tech stack, so please refer to individual game REA
 
 ## 📄 License
 
-This game is licensed under the MIT License. See the [LICENSE]() file for details.
+This game is licensed under the MIT License. See the [LICENSE](https://github.com/YoustinaMitsho/Games-In-Unity/blob/main/LICENSE.md) file for details.
 
 ## 🌟 Acknowledgements
 Special thanks to anyone who contributed or helped with testing.
