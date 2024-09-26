@@ -15,7 +15,7 @@ The goal is to lose all your lives as quickly as possible. There are fixed obsta
 The faster you lose all your lives, the better you score!
 
 ## 📄 License
-This game is licensed under the MIT License.
+This game is licensed under the MIT License. See the [LICENSE](https://github.com/YoustinaMitsho/Games-In-Unity/blob/main/LICENSE.md) file for details.
 
 ## 🌟 Acknowledgements
 Special thanks to everyone who helped during the game's development and testing.
